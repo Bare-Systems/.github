@@ -1,4 +1,6 @@
-# Bare Systems
+<div align="center">
+<h1> Bare Systems </h1>
+</div>
 
 Bare Systems builds practical open source tools for AI-first developers.
 
@@ -13,14 +15,11 @@ We are focused on software that helps small teams operate with leverage: local a
 
 ## Why We Exist
 
-We think too much modern software is optimized for lock-in, hidden complexity, and disposable abstractions.
-
 Bare Systems exists to build tools that are:
 
 - open and inspectable
 - self-hostable when it matters
 - fast to understand and fast to operate
-- designed for real workflows instead of demo environments
 - useful to both individual builders and small serious teams
 
 ## Projects
